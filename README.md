@@ -31,7 +31,7 @@ To get started with EduEthics Resume Builder, simply visit our website: EduEthic
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Hitanshuser50/EduEthics.git
 ```
 
 Go to the project directory
